@@ -1,6 +1,6 @@
 # AntichessProofEngine
 
-An antichess engine for windows that plays perfectly.
+AntichessProofEngine is an antichess engine for windows that plays perfectly. It supports both UCI and XBoard.
 
 ## How it works
 
